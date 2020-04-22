@@ -1,0 +1,12 @@
+Editor de Imagens - Camadas RGB
+Larissa Pereira Prates
+
+#Para executar o aplicativo:
+
+Instalar Python (versão criação: Python 3.7.7)
+Opção 1. Dois clique no arquivo "main.py"
+Opção 2. Clicar com o botão direito do mouse sobre o arquivo "main.py"->abrir com->Python
+
+#Para visualizar os códigos separadamente:
+
+botão direito do mouse->abrir com->Bloco de Notas
